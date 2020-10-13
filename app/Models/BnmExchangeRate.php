@@ -15,6 +15,7 @@ class BnmExchangeRate extends Model
     public const EUR_NUM_CODE = '978';
     public const USD_NUM_CODE = '840';
     public const RON_NUM_CODE = '946';
+    public const RUB_NUM_CODE = '643';
 
     public const CURRENCIES = ['MDL', 'USD', 'EUR', 'RON'];
 
